@@ -1,0 +1,3 @@
+﻿index,B1_stim,B1_condition,B1_correct,b1_instuctions.thisRepN,b1_instuctions.thisTrialN,b1_instuctions.thisN,b1_instuctions.thisIndex,B1_trials.thisRepN,B1_trials.thisTrialN,B1_trials.thisN,B1_trials.thisIndex,B1_resp.keys,B1_resp.corr,RT_list,participant,session,date,expName,psychopyVersion,frameRate,
+8,Sea Lion,Animals,f,,,,,0,0,0,8,None,0,[[]],,001,2019_Nov_19_1651,SST 10-9-19,3.1.5,59.96095342669269,
+4,Moose,Animals,f,,,,,0,1,1,4,None,0,"[[], []]",,001,2019_Nov_19_1651,SST 10-9-19,3.1.5,59.96095342669269,

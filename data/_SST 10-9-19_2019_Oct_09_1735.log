@@ -1,0 +1,80 @@
+5.9813 	WARNING 	User requested fullscreen with size [1440  900], but screen is actually [2880, 1800]. Using actual size
+6.9184 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023ECBF99278>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000023ECBF5EF60>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.9184 	EXP 	window1: recordFrameIntervals = False
+7.0846 	EXP 	window1: recordFrameIntervals = True
+7.2682 	EXP 	window1: recordFrameIntervals = False
+7.5518 	EXP 	Created instr_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.5552 	EXP 	Created cont_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='cont_text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.6260 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='height', win=Window(...), wrapWidth=1)
+7.6546 	EXP 	Created B1_stim_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='B1_stim_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.6580 	EXP 	Created B2_cont_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='B2_cont_txt', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.6599 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='height', win=Window(...), wrapWidth=1)
+7.6646 	EXP 	Created B2_stim_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='B2_stim_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+8.4478 	EXP 	Set  sound=C
+8.4569 	EXP 	Set  sound=A
+8.4569 	EXP 	Sound  set volume 1.000
+8.4883 	EXP 	Created thanks_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thanks_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Good work!\n\nYou have finished this task. ', units='height', win=Window(...), wrapWidth=1)
+8.5044 	EXP 	Created thanks_cont_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thanks_cont_text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to continue.', units='height', win=Window(...), wrapWidth=1)
+8.5349 	EXP 	Imported SST_Instr.xlsx as conditions, 2 conditions, 3 params
+8.5351 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+8.5354 	EXP 	New trial (rep=0, index=0): OrderedDict([('index', 1), ('instr_txt', 'Quickly decide whether the word is an animal or not an animal.\n\nIf the word is an animal, press the "F" key.\nIf the word is not an animal, press the "J" key.'), ('cont_txt', 'Press SPACE to begin.')])
+8.6680 	EXP 	instr_text: text = 'Quickly decide whether the word is an animal or not an animal.\n\nIf the word is an animal, press the "F" key.\nIf the word is not an animal, press the "J" key.'
+8.6680 	EXP 	cont_text: text = 'Press SPACE to begin.'
+8.6680 	EXP 	instr_text: autoDraw = True
+8.6680 	EXP 	cont_text: autoDraw = True
+29.8726 	EXP 	New trial (rep=0, index=1): OrderedDict([('index', 0), ('instr_txt', 'During this task, you will see words appear in the middle of the screen. '), ('cont_txt', 'Press SPACE for more instructions.')])
+29.9178 	DATA 	Keypress: space
+29.9342 	EXP 	instr_text: autoDraw = False
+29.9342 	EXP 	cont_text: autoDraw = False
+29.9342 	EXP 	instr_text: text = 'During this task, you will see words appear in the middle of the screen. '
+29.9342 	EXP 	cont_text: text = 'Press SPACE for more instructions.'
+29.9342 	EXP 	instr_text: autoDraw = True
+29.9342 	EXP 	cont_text: autoDraw = True
+34.5123 	EXP 	Imported SST_B1.xlsx as conditions, 2 conditions, 3 params
+34.5126 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+34.5128 	EXP 	New trial (rep=0, index=0): OrderedDict([('B1_stim', 'Catepillar'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+34.5152 	DATA 	Keypress: space
+34.5346 	EXP 	instr_text: autoDraw = False
+34.5346 	EXP 	cont_text: autoDraw = False
+35.5340 	EXP 	fixation_cross: autoDraw = True
+36.0339 	EXP 	fixation_cross: autoDraw = False
+36.0339 	EXP 	fixation_cross: autoDraw = False
+36.0339 	EXP 	B1_stim_txt: text = 'Catepillar'
+36.0339 	EXP 	B1_stim_txt: autoDraw = True
+37.1891 	DATA 	Keypress: f
+37.2149 	EXP 	New trial (rep=0, index=1): OrderedDict([('B1_stim', 'Armadillo'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+37.2345 	EXP 	B1_stim_txt: autoDraw = False
+38.2342 	EXP 	fixation_cross: autoDraw = True
+38.7509 	EXP 	fixation_cross: autoDraw = False
+38.7509 	EXP 	fixation_cross: autoDraw = False
+38.7509 	EXP 	B1_stim_txt: text = 'Armadillo'
+38.7509 	EXP 	B1_stim_txt: autoDraw = True
+39.3558 	DATA 	Keypress: j
+39.3777 	EXP 	Imported B2_instr.xlsx as conditions, 4 conditions, 3 params
+39.3779 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+39.3781 	EXP 	New trial (rep=0, index=0): OrderedDict([('index', 0), ('instr_txt', 'Nice Work!'), ('cont_txt', 'Press SPACE for more instructions.')])
+39.4009 	EXP 	B1_stim_txt: autoDraw = False
+39.4009 	EXP 	B2_cont_txt: text = 'Press SPACE for more instructions.'
+39.4009 	EXP 	B2_cont_txt: autoDraw = True
+40.9719 	EXP 	New trial (rep=0, index=1): OrderedDict([('index', 1), ('instr_txt', 'In this section, you will see a word in the middle of the screen.'), ('cont_txt', 'Press SPACE for more instructions.')])
+40.9764 	DATA 	Keypress: space
+40.9841 	EXP 	B2_cont_txt: autoDraw = False
+40.9841 	EXP 	B2_cont_txt: text = 'Press SPACE for more instructions.'
+40.9841 	EXP 	B2_cont_txt: autoDraw = True
+45.1213 	EXP 	New trial (rep=0, index=2): OrderedDict([('index', 2), ('instr_txt', 'Just like in the last section…\n\nIf the word is an animal, press "F".\nIf the word is not an animal, press "J".'), ('cont_txt', 'Press SPACE for more instructions.')])
+45.1256 	DATA 	Keypress: space
+45.1341 	EXP 	B2_cont_txt: autoDraw = False
+45.1341 	EXP 	B2_cont_txt: text = 'Press SPACE for more instructions.'
+45.1341 	EXP 	B2_cont_txt: autoDraw = True
+47.2551 	EXP 	New trial (rep=0, index=3): OrderedDict([('index', 3), ('instr_txt', 'However, this time, if you hear a tone, \n\nDO NOT press any keys.'), ('cont_txt', 'Press SPACE to begin.')])
+47.2675 	DATA 	Keypress: space
+47.2842 	EXP 	B2_cont_txt: autoDraw = False
+47.2842 	EXP 	B2_cont_txt: text = 'Press SPACE to begin.'
+47.2842 	EXP 	B2_cont_txt: autoDraw = True
+48.2868 	EXP 	Imported SST_B2.xlsx as conditions, 192 conditions, 4 params
+48.2873 	EXP 	Created sequence: sequential, trialTypes=192, nReps=1, seed=None
+48.2875 	EXP 	New trial (rep=0, index=0): OrderedDict([('B2_stim', 'Antelope'), ('B2_condition', 'Animals'), ('B2_correct', 'f'), ('sig_volume', 1.0)])
+48.2896 	DATA 	Keypress: space
+48.3007 	EXP 	B2_cont_txt: autoDraw = False
+49.3172 	EXP 	fixation_cross: autoDraw = True
+49.8901 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,366 @@
+7.8578 	WARNING 	User requested fullscreen with size [1440  900], but screen is actually [2880, 1800]. Using actual size
+8.8171 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D9B1052080>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D9B109DDA0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.8171 	EXP 	window1: recordFrameIntervals = False
+8.9834 	EXP 	window1: recordFrameIntervals = True
+9.1668 	EXP 	window1: recordFrameIntervals = False
+9.4464 	EXP 	Created instr_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.4499 	EXP 	Created cont_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='cont_text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.4811 	EXP 	Created B1_stim_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='B1_stim_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.4860 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='height', win=Window(...), wrapWidth=1)
+9.4895 	EXP 	Created B2_instr_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='B2_instr_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.4929 	EXP 	Created B2_cont_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='B2_cont_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.4977 	EXP 	Created B2_stim_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='B2_stim_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.4995 	EXP 	Created B2_fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='B2_fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='height', win=Window(...), wrapWidth=1)
+9.5267 	EXP 	Created thanks_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thanks_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Good work!\n\nYou have finished this task. ', units='height', win=Window(...), wrapWidth=1)
+9.5416 	EXP 	Created thanks_cont_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thanks_cont_text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to continue.', units='height', win=Window(...), wrapWidth=1)
+9.5700 	EXP 	Imported SST_Instr.xlsx as conditions, 2 conditions, 3 params
+9.5702 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+9.5705 	EXP 	New trial (rep=0, index=0): OrderedDict([('index', 0), ('instr_txt', 'During this task, you will see words appear in the middle of the screen. '), ('cont_txt', 'Press SPACE for more instructions.')])
+9.6836 	EXP 	instr_text: text = 'During this task, you will see words appear in the middle of the screen. '
+9.6836 	EXP 	cont_text: text = 'Press SPACE for more instructions.'
+9.6836 	EXP 	instr_text: autoDraw = True
+9.6836 	EXP 	cont_text: autoDraw = True
+11.0712 	EXP 	New trial (rep=0, index=1): OrderedDict([('index', 1), ('instr_txt', 'Quickly decide whether the word is an animal or not an animal.\n\nIf the word is an animal, press the "F" key.\nIf the word is not an animal, press the "J" key.'), ('cont_txt', 'Press SPACE to begin.')])
+11.1593 	DATA 	Keypress: space
+11.1666 	EXP 	instr_text: autoDraw = False
+11.1666 	EXP 	cont_text: autoDraw = False
+11.1666 	EXP 	instr_text: text = 'Quickly decide whether the word is an animal or not an animal.\n\nIf the word is an animal, press the "F" key.\nIf the word is not an animal, press the "J" key.'
+11.1666 	EXP 	cont_text: text = 'Press SPACE to begin.'
+11.1666 	EXP 	instr_text: autoDraw = True
+11.1666 	EXP 	cont_text: autoDraw = True
+14.1110 	EXP 	Imported SST_B1.xlsx as conditions, 24 conditions, 3 params
+14.1115 	EXP 	Created sequence: random, trialTypes=24, nReps=24, seed=None
+14.1118 	EXP 	New trial (rep=0, index=0): OrderedDict([('B1_stim', 'Rat'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+14.1190 	DATA 	Keypress: space
+14.1334 	EXP 	instr_text: autoDraw = False
+14.1334 	EXP 	cont_text: autoDraw = False
+14.1334 	EXP 	B1_stim_txt: text = 'Rat'
+14.6332 	EXP 	fixation: autoDraw = True
+15.1167 	EXP 	fixation: autoDraw = False
+15.1334 	EXP 	B1_stim_txt: autoDraw = True
+15.9214 	DATA 	Keypress: f
+16.6030 	EXP 	New trial (rep=0, index=1): OrderedDict([('B1_stim', 'Leopard'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+16.6333 	EXP 	B1_stim_txt: autoDraw = False
+16.6333 	EXP 	B1_stim_txt: autoDraw = False
+16.6333 	EXP 	fixation: autoDraw = False
+16.6333 	EXP 	B1_stim_txt: text = 'Leopard'
+17.1333 	EXP 	fixation: autoDraw = True
+17.6166 	EXP 	fixation: autoDraw = False
+17.6332 	EXP 	B1_stim_txt: autoDraw = True
+18.3713 	DATA 	Keypress: f
+19.1027 	EXP 	New trial (rep=0, index=2): OrderedDict([('B1_stim', 'Frog'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+19.1166 	EXP 	B1_stim_txt: autoDraw = False
+19.1166 	EXP 	B1_stim_txt: autoDraw = False
+19.1166 	EXP 	fixation: autoDraw = False
+19.1166 	EXP 	B1_stim_txt: text = 'Frog'
+19.6333 	EXP 	fixation: autoDraw = True
+20.1166 	EXP 	fixation: autoDraw = False
+20.1333 	EXP 	B1_stim_txt: autoDraw = True
+20.8705 	DATA 	Keypress: f
+21.6027 	EXP 	New trial (rep=0, index=3): OrderedDict([('B1_stim', 'Toad'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+21.6165 	EXP 	B1_stim_txt: autoDraw = False
+21.6165 	EXP 	B1_stim_txt: autoDraw = False
+21.6165 	EXP 	fixation: autoDraw = False
+21.6165 	EXP 	B1_stim_txt: text = 'Toad'
+22.1332 	EXP 	fixation: autoDraw = True
+22.6165 	EXP 	fixation: autoDraw = False
+22.6332 	EXP 	B1_stim_txt: autoDraw = True
+23.3879 	DATA 	Keypress: f
+24.1026 	EXP 	New trial (rep=0, index=4): OrderedDict([('B1_stim', 'Armadillo'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+24.1332 	EXP 	B1_stim_txt: autoDraw = False
+24.1332 	EXP 	B1_stim_txt: autoDraw = False
+24.1332 	EXP 	fixation: autoDraw = False
+24.1332 	EXP 	B1_stim_txt: text = 'Armadillo'
+24.6332 	EXP 	fixation: autoDraw = True
+25.1165 	EXP 	fixation: autoDraw = False
+25.1330 	EXP 	B1_stim_txt: autoDraw = True
+25.8212 	DATA 	Keypress: f
+26.6027 	EXP 	New trial (rep=0, index=5): OrderedDict([('B1_stim', 'Subway'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+26.6334 	EXP 	B1_stim_txt: autoDraw = False
+26.6334 	EXP 	B1_stim_txt: autoDraw = False
+26.6334 	EXP 	fixation: autoDraw = False
+26.6334 	EXP 	B1_stim_txt: text = 'Subway'
+27.1331 	EXP 	fixation: autoDraw = True
+27.6164 	EXP 	fixation: autoDraw = False
+27.6331 	EXP 	B1_stim_txt: autoDraw = True
+29.1028 	EXP 	New trial (rep=0, index=6): OrderedDict([('B1_stim', 'Sea Lion'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+29.1331 	EXP 	B1_stim_txt: autoDraw = False
+29.1331 	EXP 	B1_stim_txt: autoDraw = False
+29.1331 	EXP 	fixation: autoDraw = False
+29.1331 	EXP 	B1_stim_txt: text = 'Sea Lion'
+29.2688 	DATA 	Keypress: j
+29.6330 	EXP 	fixation: autoDraw = True
+30.1164 	EXP 	fixation: autoDraw = False
+30.1330 	EXP 	B1_stim_txt: autoDraw = True
+30.9048 	DATA 	Keypress: f
+31.6024 	EXP 	New trial (rep=0, index=7): OrderedDict([('B1_stim', 'Moose'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+31.6330 	EXP 	B1_stim_txt: autoDraw = False
+31.6330 	EXP 	B1_stim_txt: autoDraw = False
+31.6330 	EXP 	fixation: autoDraw = False
+31.6330 	EXP 	B1_stim_txt: text = 'Moose'
+32.1330 	EXP 	fixation: autoDraw = True
+32.6163 	EXP 	fixation: autoDraw = False
+32.6330 	EXP 	B1_stim_txt: autoDraw = True
+33.4046 	DATA 	Keypress: f
+34.1025 	EXP 	New trial (rep=0, index=8): OrderedDict([('B1_stim', 'Squirrel'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+34.1163 	EXP 	B1_stim_txt: autoDraw = False
+34.1163 	EXP 	B1_stim_txt: autoDraw = False
+34.1163 	EXP 	fixation: autoDraw = False
+34.1163 	EXP 	B1_stim_txt: text = 'Squirrel'
+34.6329 	EXP 	fixation: autoDraw = True
+35.1162 	EXP 	fixation: autoDraw = False
+35.1329 	EXP 	B1_stim_txt: autoDraw = True
+35.7882 	DATA 	Keypress: f
+36.6023 	EXP 	New trial (rep=0, index=9): OrderedDict([('B1_stim', 'Blueberry'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+36.6332 	EXP 	B1_stim_txt: autoDraw = False
+36.6332 	EXP 	B1_stim_txt: autoDraw = False
+36.6332 	EXP 	fixation: autoDraw = False
+36.6332 	EXP 	B1_stim_txt: text = 'Blueberry'
+37.1329 	EXP 	fixation: autoDraw = True
+37.6163 	EXP 	fixation: autoDraw = False
+37.6329 	EXP 	B1_stim_txt: autoDraw = True
+38.6211 	DATA 	Keypress: j
+39.1023 	EXP 	New trial (rep=0, index=10): OrderedDict([('B1_stim', 'Saw'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+39.1162 	EXP 	B1_stim_txt: autoDraw = False
+39.1162 	EXP 	B1_stim_txt: autoDraw = False
+39.1162 	EXP 	fixation: autoDraw = False
+39.1162 	EXP 	B1_stim_txt: text = 'Saw'
+39.6328 	EXP 	fixation: autoDraw = True
+40.1162 	EXP 	fixation: autoDraw = False
+40.1328 	EXP 	B1_stim_txt: autoDraw = True
+40.8878 	DATA 	Keypress: j
+41.6022 	EXP 	New trial (rep=0, index=11): OrderedDict([('B1_stim', 'Desk'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+41.6328 	EXP 	B1_stim_txt: autoDraw = False
+41.6328 	EXP 	B1_stim_txt: autoDraw = False
+41.6328 	EXP 	fixation: autoDraw = False
+41.6328 	EXP 	B1_stim_txt: text = 'Desk'
+42.1328 	EXP 	fixation: autoDraw = True
+42.6160 	EXP 	fixation: autoDraw = False
+42.6328 	EXP 	B1_stim_txt: autoDraw = True
+43.3541 	DATA 	Keypress: j
+44.1015 	EXP 	New trial (rep=0, index=12): OrderedDict([('B1_stim', 'Penguin'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+44.1159 	EXP 	B1_stim_txt: autoDraw = False
+44.1159 	EXP 	B1_stim_txt: autoDraw = False
+44.1159 	EXP 	fixation: autoDraw = False
+44.1159 	EXP 	B1_stim_txt: text = 'Penguin'
+44.6327 	EXP 	fixation: autoDraw = True
+45.1161 	EXP 	fixation: autoDraw = False
+45.1327 	EXP 	B1_stim_txt: autoDraw = True
+45.9874 	DATA 	Keypress: f
+46.6021 	EXP 	New trial (rep=0, index=13): OrderedDict([('B1_stim', 'Table'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+46.6159 	EXP 	B1_stim_txt: autoDraw = False
+46.6159 	EXP 	B1_stim_txt: autoDraw = False
+46.6159 	EXP 	fixation: autoDraw = False
+46.6159 	EXP 	B1_stim_txt: text = 'Table'
+47.1326 	EXP 	fixation: autoDraw = True
+47.6162 	EXP 	fixation: autoDraw = False
+47.6329 	EXP 	B1_stim_txt: autoDraw = True
+48.5702 	DATA 	Keypress: j
+49.1022 	EXP 	New trial (rep=0, index=14): OrderedDict([('B1_stim', 'Shorts'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+49.1160 	EXP 	B1_stim_txt: autoDraw = False
+49.1160 	EXP 	B1_stim_txt: autoDraw = False
+49.1160 	EXP 	fixation: autoDraw = False
+49.1160 	EXP 	B1_stim_txt: text = 'Shorts'
+49.6326 	EXP 	fixation: autoDraw = True
+50.1159 	EXP 	fixation: autoDraw = False
+50.1326 	EXP 	B1_stim_txt: autoDraw = True
+50.8703 	DATA 	Keypress: j
+51.6022 	EXP 	New trial (rep=0, index=15): OrderedDict([('B1_stim', 'Lettuce'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+51.6161 	EXP 	B1_stim_txt: autoDraw = False
+51.6161 	EXP 	B1_stim_txt: autoDraw = False
+51.6161 	EXP 	fixation: autoDraw = False
+51.6161 	EXP 	B1_stim_txt: text = 'Lettuce'
+52.1326 	EXP 	fixation: autoDraw = True
+52.6159 	EXP 	fixation: autoDraw = False
+52.6326 	EXP 	B1_stim_txt: autoDraw = True
+53.3706 	DATA 	Keypress: f
+54.1018 	EXP 	New trial (rep=0, index=16): OrderedDict([('B1_stim', 'Parrot'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+54.1159 	EXP 	B1_stim_txt: autoDraw = False
+54.1159 	EXP 	B1_stim_txt: autoDraw = False
+54.1159 	EXP 	fixation: autoDraw = False
+54.1159 	EXP 	B1_stim_txt: text = 'Parrot'
+54.6325 	EXP 	fixation: autoDraw = True
+55.1158 	EXP 	fixation: autoDraw = False
+55.1325 	EXP 	B1_stim_txt: autoDraw = True
+55.8374 	DATA 	Keypress: f
+56.6019 	EXP 	New trial (rep=0, index=17): OrderedDict([('B1_stim', 'Truck'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+56.6158 	EXP 	B1_stim_txt: autoDraw = False
+56.6158 	EXP 	B1_stim_txt: autoDraw = False
+56.6158 	EXP 	fixation: autoDraw = False
+56.6158 	EXP 	B1_stim_txt: text = 'Truck'
+57.1323 	EXP 	fixation: autoDraw = True
+57.6160 	EXP 	fixation: autoDraw = False
+57.6324 	EXP 	B1_stim_txt: autoDraw = True
+58.3705 	DATA 	Keypress: j
+59.1019 	EXP 	New trial (rep=0, index=18): OrderedDict([('B1_stim', 'Garlic'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+59.1324 	EXP 	B1_stim_txt: autoDraw = False
+59.1324 	EXP 	B1_stim_txt: autoDraw = False
+59.1324 	EXP 	fixation: autoDraw = False
+59.1324 	EXP 	B1_stim_txt: text = 'Garlic'
+59.6324 	EXP 	fixation: autoDraw = True
+60.1157 	EXP 	fixation: autoDraw = False
+60.1324 	EXP 	B1_stim_txt: autoDraw = True
+60.9888 	DATA 	Keypress: j
+61.6018 	EXP 	New trial (rep=0, index=19): OrderedDict([('B1_stim', 'Zebra'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+61.6156 	EXP 	B1_stim_txt: autoDraw = False
+61.6156 	EXP 	B1_stim_txt: autoDraw = False
+61.6156 	EXP 	fixation: autoDraw = False
+61.6156 	EXP 	B1_stim_txt: text = 'Zebra'
+62.1323 	EXP 	fixation: autoDraw = True
+62.6157 	EXP 	fixation: autoDraw = False
+62.6323 	EXP 	B1_stim_txt: autoDraw = True
+63.5703 	DATA 	Keypress: f
+64.1020 	EXP 	New trial (rep=0, index=20): OrderedDict([('B1_stim', 'Tomato'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+64.1155 	EXP 	B1_stim_txt: autoDraw = False
+64.1155 	EXP 	B1_stim_txt: autoDraw = False
+64.1155 	EXP 	fixation: autoDraw = False
+64.1155 	EXP 	B1_stim_txt: text = 'Tomato'
+64.6322 	EXP 	fixation: autoDraw = True
+65.1156 	EXP 	fixation: autoDraw = False
+65.1323 	EXP 	B1_stim_txt: autoDraw = True
+65.9705 	DATA 	Keypress: j
+66.6017 	EXP 	New trial (rep=0, index=21): OrderedDict([('B1_stim', 'Drill'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+66.6158 	EXP 	B1_stim_txt: autoDraw = False
+66.6158 	EXP 	B1_stim_txt: autoDraw = False
+66.6158 	EXP 	fixation: autoDraw = False
+66.6158 	EXP 	B1_stim_txt: text = 'Drill'
+67.1322 	EXP 	fixation: autoDraw = True
+67.6156 	EXP 	fixation: autoDraw = False
+67.6322 	EXP 	B1_stim_txt: autoDraw = True
+68.3869 	DATA 	Keypress: j
+69.1019 	EXP 	New trial (rep=0, index=22): OrderedDict([('B1_stim', 'Screwdriver'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+69.1322 	EXP 	B1_stim_txt: autoDraw = False
+69.1322 	EXP 	B1_stim_txt: autoDraw = False
+69.1322 	EXP 	fixation: autoDraw = False
+69.1322 	EXP 	B1_stim_txt: text = 'Screwdriver'
+69.6322 	EXP 	fixation: autoDraw = True
+70.1157 	EXP 	fixation: autoDraw = False
+70.1322 	EXP 	B1_stim_txt: autoDraw = True
+70.9365 	DATA 	Keypress: j
+71.6014 	EXP 	New trial (rep=0, index=23): OrderedDict([('B1_stim', 'Catepillar'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+71.6157 	EXP 	B1_stim_txt: autoDraw = False
+71.6157 	EXP 	B1_stim_txt: autoDraw = False
+71.6157 	EXP 	fixation: autoDraw = False
+71.6157 	EXP 	B1_stim_txt: text = 'Catepillar'
+72.1321 	EXP 	fixation: autoDraw = True
+72.6154 	EXP 	fixation: autoDraw = False
+72.6320 	EXP 	B1_stim_txt: autoDraw = True
+73.5203 	DATA 	Keypress: f
+74.1015 	EXP 	New trial (rep=1, index=0): OrderedDict([('B1_stim', 'Penguin'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+74.1154 	EXP 	B1_stim_txt: autoDraw = False
+74.1154 	EXP 	B1_stim_txt: autoDraw = False
+74.1154 	EXP 	fixation: autoDraw = False
+74.1154 	EXP 	B1_stim_txt: text = 'Penguin'
+74.6321 	EXP 	fixation: autoDraw = True
+75.1156 	EXP 	fixation: autoDraw = False
+75.1322 	EXP 	B1_stim_txt: autoDraw = True
+75.9195 	DATA 	Keypress: f
+76.6015 	EXP 	New trial (rep=1, index=1): OrderedDict([('B1_stim', 'Armadillo'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+76.6153 	EXP 	B1_stim_txt: autoDraw = False
+76.6153 	EXP 	B1_stim_txt: autoDraw = False
+76.6153 	EXP 	fixation: autoDraw = False
+76.6153 	EXP 	B1_stim_txt: text = 'Armadillo'
+77.1320 	EXP 	fixation: autoDraw = True
+77.6153 	EXP 	fixation: autoDraw = False
+77.6320 	EXP 	B1_stim_txt: autoDraw = True
+78.5036 	DATA 	Keypress: f
+79.1016 	EXP 	New trial (rep=1, index=2): OrderedDict([('B1_stim', 'Toad'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+79.1153 	EXP 	B1_stim_txt: autoDraw = False
+79.1153 	EXP 	B1_stim_txt: autoDraw = False
+79.1153 	EXP 	fixation: autoDraw = False
+79.1153 	EXP 	B1_stim_txt: text = 'Toad'
+79.6322 	EXP 	fixation: autoDraw = True
+80.1153 	EXP 	fixation: autoDraw = False
+80.1320 	EXP 	B1_stim_txt: autoDraw = True
+80.9869 	DATA 	Keypress: f
+81.6015 	EXP 	New trial (rep=1, index=3): OrderedDict([('B1_stim', 'Parrot'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+81.6152 	EXP 	B1_stim_txt: autoDraw = False
+81.6152 	EXP 	B1_stim_txt: autoDraw = False
+81.6152 	EXP 	fixation: autoDraw = False
+81.6152 	EXP 	B1_stim_txt: text = 'Parrot'
+82.1321 	EXP 	fixation: autoDraw = True
+82.6152 	EXP 	fixation: autoDraw = False
+82.6321 	EXP 	B1_stim_txt: autoDraw = True
+83.3866 	DATA 	Keypress: f
+84.1013 	EXP 	New trial (rep=1, index=4): OrderedDict([('B1_stim', 'Rat'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+84.1154 	EXP 	B1_stim_txt: autoDraw = False
+84.1154 	EXP 	B1_stim_txt: autoDraw = False
+84.1154 	EXP 	fixation: autoDraw = False
+84.1154 	EXP 	B1_stim_txt: text = 'Rat'
+84.6318 	EXP 	fixation: autoDraw = True
+85.1152 	EXP 	fixation: autoDraw = False
+85.1318 	EXP 	B1_stim_txt: autoDraw = True
+86.0701 	DATA 	Keypress: f
+86.6015 	EXP 	New trial (rep=1, index=5): OrderedDict([('B1_stim', 'Squirrel'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+86.6154 	EXP 	B1_stim_txt: autoDraw = False
+86.6154 	EXP 	B1_stim_txt: autoDraw = False
+86.6154 	EXP 	fixation: autoDraw = False
+86.6154 	EXP 	B1_stim_txt: text = 'Squirrel'
+87.1316 	EXP 	fixation: autoDraw = True
+87.6153 	EXP 	fixation: autoDraw = False
+87.6320 	EXP 	B1_stim_txt: autoDraw = True
+88.4033 	DATA 	Keypress: f
+89.1012 	EXP 	New trial (rep=1, index=6): OrderedDict([('B1_stim', 'Lettuce'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+89.1151 	EXP 	B1_stim_txt: autoDraw = False
+89.1151 	EXP 	B1_stim_txt: autoDraw = False
+89.1151 	EXP 	fixation: autoDraw = False
+89.1151 	EXP 	B1_stim_txt: text = 'Lettuce'
+89.6320 	EXP 	fixation: autoDraw = True
+90.1150 	EXP 	fixation: autoDraw = False
+90.1317 	EXP 	B1_stim_txt: autoDraw = True
+90.8532 	DATA 	Keypress: j
+91.6011 	EXP 	New trial (rep=1, index=7): OrderedDict([('B1_stim', 'Garlic'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+91.6150 	EXP 	B1_stim_txt: autoDraw = False
+91.6150 	EXP 	B1_stim_txt: autoDraw = False
+91.6150 	EXP 	fixation: autoDraw = False
+91.6150 	EXP 	B1_stim_txt: text = 'Garlic'
+92.1317 	EXP 	fixation: autoDraw = True
+92.6150 	EXP 	fixation: autoDraw = False
+92.6316 	EXP 	B1_stim_txt: autoDraw = True
+93.5030 	DATA 	Keypress: j
+94.1010 	EXP 	New trial (rep=1, index=8): OrderedDict([('B1_stim', 'Blueberry'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+94.1149 	EXP 	B1_stim_txt: autoDraw = False
+94.1149 	EXP 	B1_stim_txt: autoDraw = False
+94.1149 	EXP 	fixation: autoDraw = False
+94.1149 	EXP 	B1_stim_txt: text = 'Blueberry'
+94.6315 	EXP 	fixation: autoDraw = True
+95.1149 	EXP 	fixation: autoDraw = False
+95.1315 	EXP 	B1_stim_txt: autoDraw = True
+95.9030 	DATA 	Keypress: j
+96.6010 	EXP 	New trial (rep=1, index=9): OrderedDict([('B1_stim', 'Moose'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+96.6152 	EXP 	B1_stim_txt: autoDraw = False
+96.6152 	EXP 	B1_stim_txt: autoDraw = False
+96.6152 	EXP 	fixation: autoDraw = False
+96.6152 	EXP 	B1_stim_txt: text = 'Moose'
+97.1316 	EXP 	fixation: autoDraw = True
+97.6147 	EXP 	fixation: autoDraw = False
+97.6316 	EXP 	B1_stim_txt: autoDraw = True
+98.3529 	DATA 	Keypress: f
+99.1012 	EXP 	New trial (rep=1, index=10): OrderedDict([('B1_stim', 'Catepillar'), ('B1_condition', 'Animals'), ('B1_correct', 'f')])
+99.1148 	EXP 	B1_stim_txt: autoDraw = False
+99.1148 	EXP 	B1_stim_txt: autoDraw = False
+99.1148 	EXP 	fixation: autoDraw = False
+99.1148 	EXP 	B1_stim_txt: text = 'Catepillar'
+99.6316 	EXP 	fixation: autoDraw = True
+100.1148 	EXP 	fixation: autoDraw = False
+100.1314 	EXP 	B1_stim_txt: autoDraw = True
+101.1529 	DATA 	Keypress: f
+101.6009 	EXP 	New trial (rep=1, index=11): OrderedDict([('B1_stim', 'Truck'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+101.6147 	EXP 	B1_stim_txt: autoDraw = False
+101.6147 	EXP 	B1_stim_txt: autoDraw = False
+101.6147 	EXP 	fixation: autoDraw = False
+101.6147 	EXP 	B1_stim_txt: text = 'Truck'
+102.1315 	EXP 	fixation: autoDraw = True
+102.6148 	EXP 	fixation: autoDraw = False
+102.6314 	EXP 	B1_stim_txt: autoDraw = True
+103.3194 	DATA 	Keypress: j
+104.1009 	EXP 	New trial (rep=1, index=12): OrderedDict([('B1_stim', 'Tomato'), ('B1_condition', 'Nonanimals'), ('B1_correct', 'j')])
+104.1147 	EXP 	B1_stim_txt: autoDraw = False
+104.1147 	EXP 	B1_stim_txt: autoDraw = False
+104.1147 	EXP 	fixation: autoDraw = False
+104.1147 	EXP 	B1_stim_txt: text = 'Tomato'
+104.6314 	EXP 	fixation: autoDraw = True
+105.1147 	EXP 	fixation: autoDraw = False
+105.1314 	EXP 	B1_stim_txt: autoDraw = True
+105.6200 	DATA 	Keypress: escape
+105.8734 	EXP 	window1: mouseVisible = True

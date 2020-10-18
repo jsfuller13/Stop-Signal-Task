@@ -1,0 +1,6 @@
+﻿B1_stim,B1_condition,B1_correct,B1_instr.thisRepN,B1_instr.thisTrialN,B1_instr.thisN,B1_instr.thisIndex,B1_trials.thisRepN,B1_trials.thisTrialN,B1_trials.thisN,B1_trials.thisIndex,B1_resp.keys,B1_resp.corr,participant,session,date,expName,psychopyVersion,frameRate,
+Screwdriver,Nonanimals,j,,,,,0,0,0,16,None,0,1,001,2019_Oct_01_1420,SST b1,3.2.3,60.00909737944812,
+Penguin,Animals,f,,,,,0,1,1,5,None,0,1,001,2019_Oct_01_1420,SST b1,3.2.3,60.00909737944812,
+Zebra,Animals,f,,,,,0,2,2,11,None,0,1,001,2019_Oct_01_1420,SST b1,3.2.3,60.00909737944812,
+Shorts,Nonanimals,j,,,,,0,3,3,17,None,0,1,001,2019_Oct_01_1420,SST b1,3.2.3,60.00909737944812,
+Truck,Nonanimals,j,,,,,0,4,4,19,None,0,1,001,2019_Oct_01_1420,SST b1,3.2.3,60.00909737944812,
